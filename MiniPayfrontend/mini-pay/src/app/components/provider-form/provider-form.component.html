@@ -1,0 +1,55 @@
+<div class="container">
+  <h1>{{ isEditMode ? 'Edit' : 'Add New' }} Payment Provider</h1>
+
+  <div class="card">
+    <form [formGroup]="form" (ngSubmit)="onSubmit()" novalidate>
+      <div class="form-group">
+        <label for="name">Provider Name</label>
+        <input id="name" type="text" formControlName="name" placeholder="Enter provider name">
+        <div *ngIf="form.get('name')?.invalid && form.get('name')?.touched" class="error">
+          Name is required
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="apiUrl">API URL</label>
+        <input id="apiUrl" type="url" formControlName="apiUrl" placeholder="https://example.com/api">
+        <div *ngIf="form.get('apiUrl')?.invalid && form.get('apiUrl')?.touched" class="error">
+          Valid API URL is required (must start with http:// or https://)
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="supportedCurrency">Supported Currency</label>
+        <select id="supportedCurrency" formControlName="supportedCurrency">
+          <option value="" disabled selected>Select Currency</option>
+          <option value="USD">USD</option>
+          <option value="EUR">EUR</option>
+          <option value="GBP">GBP</option>
+          <option value="JPY">JPY</option>
+        </select>
+        <div *ngIf="form.get('supportedCurrency')?.invalid && form.get('supportedCurrency')?.touched" class="error">
+          Currency is required
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="description">Description (Optional)</label>
+        <textarea id="description" formControlName="description" rows="3" placeholder="Add a description..."></textarea>
+      </div>
+
+      <div class="form-group checkbox-group">
+        <label>
+          <input type="checkbox" formControlName="isActive"> Active
+        </label>
+      </div>
+
+      <div class="button-group">
+        <button type="submit" class="btn btn-primary" [disabled]="form.invalid || isLoading">
+          {{ isEditMode ? 'Update' : 'Create' }} Provider
+        </button>
+        <a routerLink="/providers" class="btn btn-secondary">Cancel</a>
+      </div>
+    </form>
+  </div>
+</div>

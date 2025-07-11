@@ -1,0 +1,26 @@
+@import '../../../assets/scss/variables';
+
+.result {
+  padding: $spacing-unit;
+  border-radius: $border-radius;
+  margin-bottom: $spacing-unit * 2;
+
+  &.success {
+    background-color: rgba($secondary-color, 0.1);
+    border-left: 4px solid $secondary-color;
+  }
+
+  &.failure {
+    background-color: rgba($danger-color, 0.1);
+    border-left: 4px solid $danger-color;
+  }
+
+  h3 {
+    margin-bottom: $spacing-unit * 0.5;
+    color: $dark-color;
+  }
+
+  p {
+    margin-bottom: $spacing-unit * 0.5;
+  }
+}

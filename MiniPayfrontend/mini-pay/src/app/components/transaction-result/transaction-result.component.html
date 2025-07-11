@@ -1,0 +1,19 @@
+<div class="container">
+  <div class="card" *ngIf="transaction">
+    <h1>Transaction Result</h1>
+
+    <div
+      class="result"
+      [class.success]="transaction.status === 'Success'"
+      [class.failure]="transaction.status !== 'Success'">
+      <h3>Status: {{ transaction.status }}</h3>
+      <p><strong>Transaction ID:</strong> {{ transaction.transactionId }}</p>
+      <p><strong>Reference ID:</strong> {{ transaction.referenceId }}</p>
+      <p><strong>Timestamp:</strong> {{ transaction.timestamp }}</p>
+      <p><strong>Message:</strong> {{ transaction.message }}</p>
+    </div>
+
+    <button routerLink="/simulate" class="btn btn-primary">New Payment</button>
+  </div>
+</div>
+

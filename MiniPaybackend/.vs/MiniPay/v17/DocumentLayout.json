@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|c:\\users\\aleksandar\\source\\repos\\minipayplatform\\minipaybac\\minipay\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|solutionrelative:minipay\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|c:\\users\\aleksandar\\source\\repos\\minipayplatform\\minipaybac\\minipay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|solutionrelative:minipay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|c:\\users\\aleksandar\\source\\repos\\minipayplatform\\minipaybac\\minipay\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|solutionrelative:minipay\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|c:\\users\\aleksandar\\source\\repos\\minipayplatform\\minipaybac\\minipay\\data\\paymentproviders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|solutionrelative:minipay\\data\\paymentproviders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|c:\\users\\aleksandar\\source\\repos\\minipayplatform\\minipaybac\\minipay\\models\\paymentprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|solutionrelative:minipay\\models\\paymentprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|c:\\users\\aleksandar\\source\\repos\\minipayplatform\\minipaybac\\minipay\\models\\paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|solutionrelative:minipay\\models\\paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|c:\\users\\aleksandar\\source\\repos\\minipayplatform\\minipaybac\\minipay\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|solutionrelative:minipay\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|c:\\users\\aleksandar\\source\\repos\\minipayplatform\\minipaybac\\minipay\\controllers\\paymentproviderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|solutionrelative:minipay\\controllers\\paymentproviderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|c:\\users\\aleksandar\\source\\repos\\minipayplatform\\minipaybac\\minipay\\controllers\\mockpaymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|solutionrelative:minipay\\controllers\\mockpaymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|c:\\users\\aleksandar\\source\\repos\\minipayplatform\\minipaybac\\minipay\\models\\paymentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|solutionrelative:minipay\\models\\paymentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|c:\\users\\aleksandar\\source\\repos\\minipayplatform\\minipaybac\\minipay\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|solutionrelative:minipay\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|c:\\users\\aleksandar\\source\\repos\\minipayplatform\\minipaybac\\minipay\\services\\jsonpaymentproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|solutionrelative:minipay\\services\\jsonpaymentproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|c:\\users\\aleksandar\\source\\repos\\minipayplatform\\minipaybac\\minipay\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|solutionrelative:minipay\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|c:\\users\\aleksandar\\source\\repos\\minipayplatform\\minipaybac\\minipay\\services\\ipaymentproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DE9985-6D04-45EB-B585-813A92E81655}|MiniPay\\MiniPay.csproj|solutionrelative:minipay\\services\\ipaymentproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "MiniPay\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "MiniPay\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:09:13.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentProviders.json",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\Data\\PaymentProviders.json",
+              "RelativeDocumentMoniker": "MiniPay\\Data\\PaymentProviders.json",
+              "ToolTip": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\Data\\PaymentProviders.json",
+              "RelativeToolTip": "MiniPay\\Data\\PaymentProviders.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T14:09:28.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\Models\\PaymentProvider.cs",
+              "RelativeDocumentMoniker": "MiniPay\\Models\\PaymentProvider.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\Models\\PaymentProvider.cs",
+              "RelativeToolTip": "MiniPay\\Models\\PaymentProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:22:39.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\Models\\PaymentRequest.cs",
+              "RelativeDocumentMoniker": "MiniPay\\Models\\PaymentRequest.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\Models\\PaymentRequest.cs",
+              "RelativeToolTip": "MiniPay\\Models\\PaymentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:24:13.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\Program.cs",
+              "RelativeDocumentMoniker": "MiniPay\\Program.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\Program.cs",
+              "RelativeToolTip": "MiniPay\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:12:51.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\appsettings.json",
+              "RelativeDocumentMoniker": "MiniPay\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\appsettings.json",
+              "RelativeToolTip": "MiniPay\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T13:11:07.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MiniPay\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MiniPay\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T14:25:06.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MockPaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\Controllers\\MockPaymentController.cs",
+              "RelativeDocumentMoniker": "MiniPay\\Controllers\\MockPaymentController.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\Controllers\\MockPaymentController.cs",
+              "RelativeToolTip": "MiniPay\\Controllers\\MockPaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T08:07:26.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentProvidersController.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\Controllers\\PaymentProvidersController.cs",
+              "RelativeDocumentMoniker": "MiniPay\\Controllers\\PaymentProvidersController.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\Controllers\\PaymentProvidersController.cs",
+              "RelativeToolTip": "MiniPay\\Controllers\\PaymentProvidersController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:06:42.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaymentResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\Models\\PaymentResponse.cs",
+              "RelativeDocumentMoniker": "MiniPay\\Models\\PaymentResponse.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\Models\\PaymentResponse.cs",
+              "RelativeToolTip": "MiniPay\\Models\\PaymentResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:24:46.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "MiniPay\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\Services\\PaymentService.cs",
+              "RelativeToolTip": "MiniPay\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:27:14.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JsonPaymentProviderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\Services\\JsonPaymentProviderRepository.cs",
+              "RelativeDocumentMoniker": "MiniPay\\Services\\JsonPaymentProviderRepository.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\Services\\JsonPaymentProviderRepository.cs",
+              "RelativeToolTip": "MiniPay\\Services\\JsonPaymentProviderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:26:12.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\Services\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "MiniPay\\Services\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\Services\\IPaymentService.cs",
+              "RelativeToolTip": "MiniPay\\Services\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:26:41.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPaymentProviderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\Services\\IPaymentProviderRepository.cs",
+              "RelativeDocumentMoniker": "MiniPay\\Services\\IPaymentProviderRepository.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\source\\repos\\MiniPayPlatform\\MiniPaybac\\MiniPay\\Services\\IPaymentProviderRepository.cs",
+              "RelativeToolTip": "MiniPay\\Services\\IPaymentProviderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:25:24.771Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

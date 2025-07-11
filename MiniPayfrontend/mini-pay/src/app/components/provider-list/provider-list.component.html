@@ -1,0 +1,55 @@
+<div class="container">
+  <h1 class="page-title">Payment Providers</h1>
+
+  <div class="card actions-card">
+    <a routerLink="/providers/new" class="btn btn-primary">Add New Provider</a>
+  </div>
+
+  <div class="card" *ngIf="isLoading">
+    <p>Loading providers...</p>
+  </div>
+
+  <div class="card" *ngIf="!isLoading && providers.length === 0">
+    <p>No payment providers found.</p>
+  </div>
+
+  <div class="card" *ngIf="!isLoading && providers.length > 0">
+    <table class="table styled-table">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>API URL</th>
+          <th>Currency</th>
+          <th>Status</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let provider of providers" class="table-row">
+          <td>
+            <a [href]="getProviderLink(provider.name)" target="_blank" rel="noopener noreferrer" class="provider-link">
+              {{ provider.name }}
+            </a>
+          </td>
+          <td>{{ provider.apiUrl }}</td>
+          <td>{{ provider.supportedCurrency }}</td>
+          <td>
+            <span class="status-badge" [class.status-badge-active]="provider.isActive"
+                  [class.status-badge-inactive]="!provider.isActive">
+              {{ provider.isActive ? 'Active' : 'Inactive' }}
+            </span>
+          </td>
+          <td class="actions-cell">
+            <button (click)="toggleStatus(provider.id)" class="btn btn-sm"
+                    [class.btn-secondary]="!provider.isActive"
+                    [class.btn-danger]="provider.isActive">
+              {{ provider.isActive ? 'Deactivate' : 'Activate' }}
+            </button>
+            <a [routerLink]="['/providers', provider.id, 'edit']" class="btn btn-sm btn-primary">Edit</a>
+            <button (click)="deleteProvider(provider.id)" class="btn btn-sm btn-danger">Delete</button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
