@@ -6,15 +6,15 @@ This repository contains both the backend (ASP.NET Core API) and frontend (Angul
 
 ```
 MiniPayPlatform/
-├── backend/ MiniPaybac     → ASP.NET Core API (Visual Studio project)
-└── frontend mini-pay/    → Angular app (Visual Studio Code project)
+├── MiniPaybackend    → ASP.NET Core API (Visual Studio Projekt)
+└── MiniPayfrontend/    → Angular App (Visual Studio Code Projekt)
 ```
 
 ## 🚀 How to Run Locally
 
 ### Backend (ASP.NET Core)
 
-1. Navigate to the `MiniPaybac` folder.
+1. Navigate to the `MiniPaybackend` folder.
 2. Open the solution in Visual Studio.
 3. Ensure the launch profile is set correctly (e.g., `MiniPay.Api`).
 4. Run the project (`F5` or `Start`).
@@ -22,7 +22,7 @@ MiniPayPlatform/
 
 ### Frontend (Angular)
 
-1. Navigate to the `frontend` folder.
+1. Navigate to the `MiniPayfrontend` folder.
 2. Install dependencies:
 
 ```
@@ -69,15 +69,15 @@ Dieses Repository enthält sowohl das Backend (ASP.NET Core API) als auch das Fr
 
 ```
 MiniPayPlatform/
-├── backend-MiniPaybac/     → ASP.NET Core API (Visual Studio Projekt)
-└── frontend-mini-pay/    → Angular App (Visual Studio Code Projekt)
+├── MiniPaybackend    → ASP.NET Core API (Visual Studio Projekt)
+└── MiniPayfrontend/    → Angular App (Visual Studio Code Projekt)
 ```
 
 ## 🚀 Lokales Ausführen
 
 ### Backend (ASP.NET Core)
 
-1. Gehe in den Ordner `MiniPaybac`.
+1. Gehe in den Ordner `MiniPaybackend`.
 2. Öffne die Lösung in Visual Studio.
 3. Stelle sicher, dass das richtige Startprofil ausgewählt ist (z.B. `MiniPay.Api`).
 4. Starte das Projekt (`F5` oder "Start").
@@ -85,7 +85,7 @@ MiniPayPlatform/
 
 ### Frontend (Angular)
 
-1. Gehe in den Ordner `frontend`.
+1. Gehe in den Ordner `MiniPayfrontend`.
 2. Installiere die Abhängigkeiten:
 
 ```
